@@ -1,6 +1,6 @@
 # leetcode
 
-Topics:
+Topics: \n
 Array
 LinkedList
 Tree
