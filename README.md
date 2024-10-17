@@ -1,7 +1,7 @@
 # leetcode
 
 # Topics:
-<h1>Array </br></h1>
+<h2>Array </br></h2>
 LinkedList </br>
 Tree </br>
 String </br>
